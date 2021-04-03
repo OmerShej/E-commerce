@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Amazon258", "Amazon258.vcxproj", "{ACCED1CA-378B-4595-B123-6E4344C31837}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Debug|x64.ActiveCfg = Debug|x64
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Debug|x64.Build.0 = Debug|x64
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Debug|x86.Build.0 = Debug|Win32
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Release|x64.ActiveCfg = Release|x64
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Release|x64.Build.0 = Release|x64
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Release|x86.ActiveCfg = Release|Win32
+		{ACCED1CA-378B-4595-B123-6E4344C31837}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB717EB-73A6-46FC-AF7A-BB0797AACA29}
+	EndGlobalSection
+EndGlobal
